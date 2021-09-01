@@ -1,0 +1,58 @@
+{
+  "users": [
+    {
+      "email": "kenzinho@email.com",
+      "password": "senhamuitoforte",
+      "id": 1
+    },
+    {
+      "email": "kenzinhoo@email.com",
+      "password": "$2a$10$L7lTT2b0/Qk6gvgpYFGXg./FrPxHpAF6ojwPjleXjSiXynaLa5Kdu",
+      "id": 2
+    },
+    {
+      "email": "novoteste@email.com",
+      "password": "$2a$10$7iQg8L6qKSDdyufa6gudueK9JVJLL8fLn3NGn.I/3UNSvwfByKvSS",
+      "id": 3
+    },
+    {
+      "email": "kenzinhooo@email.com",
+      "password": "$2a$10$jF9YmEZFuRBZ5soqhgf4PuhaIjB2IQ.3WHKbMRu4.Sj6MWXNa2Bg2",
+      "id": 4
+    },
+    {
+      "email": "viniteste@email.com",
+      "password": "$2a$10$Wl0IXoioS0sUbkilTBXu6eXIg0dcT062Kc3gEXk0lSdt7xvOfGjA6",
+      "id": 5
+    }
+  ],
+  "products": [
+    {
+      "name": "Curso JS",
+      "price": 999,
+      "id": 1
+    },
+    {
+      "name": "Curso CSS",
+      "price": 999,
+      "id": 2
+    },
+    {
+      "name": "Curso React",
+      "price": 999,
+      "id": 3
+    },
+    {
+      "name": "Curso C++",
+      "price": 999,
+      "id": 4
+    }
+  ],
+  "specialproducts": [
+    {
+      "name": "Curso JS",
+      "price": 999,
+      "id": 1
+    }
+  ]
+}
